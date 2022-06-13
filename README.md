@@ -11,5 +11,5 @@ It also features a text-based heirarchal menu system, utilising the composite pa
 ## How to Run
 Run the following command in a bash or Powershell terminal:
 ```
-'./gradlew run'
+> ./gradlew run
 ```
